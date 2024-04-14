@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternshipAvito</string>
+    <string name="movie_name">MovieName</string>
+    <string name="movie_description">MovieDescription</string>
+    <string name="movie_rating">MovieRating</string>
+    <string name="movie_rating_stub">Нет информации о рейтинге</string>
+    <string name="movie_year">Year</string>
+    <string name="production_year">Год производства: </string>
+</resources>
